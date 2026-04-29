@@ -32,4 +32,3 @@ Botão de Reset: Acesso rápido para reiniciar a lógica do jogo.
 
 Design: Paleta de cores vibrante (tons de rosa e azul escuro) para uma estética moderna.
 # https://github.com/MrlonAragao/Jogo-da-velha.git
-# file:///C:/Users/Marlon%20Lucian/Desktop/SCTEC-%20Ciclo2/Css-%20ciclo%202/java%20Scrpti/Ex007-%20Manipula%C3%A7%C3%A3o%20do%20DOM/index.html
